@@ -1,6 +1,6 @@
 // 設定変数ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 // debugモード true or false
-const debug = true;
+const debug = false;
 // debug = trueのとき、targetGroupMailに所属するユーザーを指定すればこのユーザーのみ権限が変わる
 const debugTargetMail = "xxx@xxx";
 
